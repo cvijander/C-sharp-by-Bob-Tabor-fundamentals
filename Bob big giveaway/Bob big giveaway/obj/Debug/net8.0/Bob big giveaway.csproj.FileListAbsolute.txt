@@ -1,0 +1,14 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\bin\Debug\net8.0\Bob big giveaway.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\bin\Debug\net8.0\Bob big giveaway.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\bin\Debug\net8.0\Bob big giveaway.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\bin\Debug\net8.0\Bob big giveaway.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\bin\Debug\net8.0\Bob big giveaway.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\Bob big giveaway.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\Bob big giveaway.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\Bob big giveaway.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\Bob big giveaway.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\Bob big giveaway.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\refint\Bob big giveaway.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\Bob big giveaway.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\Bob big giveaway.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\Bob big giveaway\Bob big giveaway\obj\Debug\net8.0\ref\Bob big giveaway.dll
