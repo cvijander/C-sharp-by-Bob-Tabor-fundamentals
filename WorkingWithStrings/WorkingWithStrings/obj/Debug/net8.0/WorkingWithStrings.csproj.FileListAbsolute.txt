@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\refint\WorkingWithStrings.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\ref\WorkingWithStrings.dll

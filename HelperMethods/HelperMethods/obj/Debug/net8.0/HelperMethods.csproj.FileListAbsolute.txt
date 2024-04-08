@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\refint\HelperMethods.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\HelperMethods\HelperMethods\obj\Debug\net8.0\ref\HelperMethods.dll

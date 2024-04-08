@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\refint\SimpleClasses.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleClasses\SimpleClasses\obj\Debug\net8.0\ref\SimpleClasses.dll

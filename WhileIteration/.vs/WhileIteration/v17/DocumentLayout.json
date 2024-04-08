@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\WhileIteration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A33BE57-0119-4107-83E9-2375FBFAE637}|WhileIteration\\WhileIteration.csproj|k:\\bob tabor\\kodovi\\fundamentals 8h\\whileiteration\\whileiteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A33BE57-0119-4107-83E9-2375FBFAE637}|WhileIteration\\WhileIteration.csproj|solutionrelative:whileiteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\WhileIteration\\WhileIteration\\Program.cs",
+              "RelativeDocumentMoniker": "WhileIteration\\Program.cs",
+              "ToolTip": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\WhileIteration\\WhileIteration\\Program.cs",
+              "RelativeToolTip": "WhileIteration\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswFsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:03:40.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

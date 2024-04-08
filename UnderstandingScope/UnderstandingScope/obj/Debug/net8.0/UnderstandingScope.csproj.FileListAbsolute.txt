@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\refint\UnderstandingScope.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\ref\UnderstandingScope.dll

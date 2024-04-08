@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\refint\ForIteration.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\ForIteration\ForIteration\obj\Debug\net8.0\ref\ForIteration.dll

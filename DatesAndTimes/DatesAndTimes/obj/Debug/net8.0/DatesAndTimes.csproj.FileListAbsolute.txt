@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\refint\DatesAndTimes.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\DatesAndTimes\DatesAndTimes\obj\Debug\net8.0\ref\DatesAndTimes.dll

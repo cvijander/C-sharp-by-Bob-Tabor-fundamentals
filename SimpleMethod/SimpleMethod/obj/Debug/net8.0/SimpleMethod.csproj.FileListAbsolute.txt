@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\refint\SimpleMethod.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\SimpleMethod\SimpleMethod\obj\Debug\net8.0\ref\SimpleMethod.dll

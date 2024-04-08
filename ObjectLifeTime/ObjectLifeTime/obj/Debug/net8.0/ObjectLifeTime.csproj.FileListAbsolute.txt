@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\refint\ObjectLifeTime.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ref\ObjectLifeTime.dll

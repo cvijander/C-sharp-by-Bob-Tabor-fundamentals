@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\refint\AssembliesAndNamespaces.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net8.0\ref\AssembliesAndNamespaces.dll

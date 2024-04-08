@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\refint\UnderstandingArrays.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\ref\UnderstandingArrays.dll

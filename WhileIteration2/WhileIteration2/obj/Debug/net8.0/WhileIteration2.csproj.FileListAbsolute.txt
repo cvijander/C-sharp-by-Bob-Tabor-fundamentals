@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\bin\Debug\net8.0\WhileIteration2.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\bin\Debug\net8.0\WhileIteration2.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\bin\Debug\net8.0\WhileIteration2.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\bin\Debug\net8.0\WhileIteration2.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\bin\Debug\net8.0\WhileIteration2.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\refint\WhileIteration2.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\WhileIteration2.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WhileIteration2\WhileIteration2\obj\Debug\net8.0\ref\WhileIteration2.dll
