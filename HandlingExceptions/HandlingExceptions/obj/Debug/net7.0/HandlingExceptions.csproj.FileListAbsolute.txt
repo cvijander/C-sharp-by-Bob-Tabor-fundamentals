@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\refint\HandlingExceptions.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\HandlingExceptions\HandlingExceptions\obj\Debug\net7.0\ref\HandlingExceptions.dll

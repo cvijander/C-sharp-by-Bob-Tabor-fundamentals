@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\bin\Debug\net7.0\TimerExample.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\bin\Debug\net7.0\TimerExample.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\bin\Debug\net7.0\TimerExample.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\bin\Debug\net7.0\TimerExample.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\bin\Debug\net7.0\TimerExample.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\refint\TimerExample.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\TimerExample.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\TimerExample\TimerExample\obj\Debug\net7.0\ref\TimerExample.dll

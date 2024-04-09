@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\Lession18WebandsLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{493A78B3-D686-4792-9560-7ADD3B509398}|ScrapeClient\\ScrapeClient.csproj|k:\\bob tabor\\kodovi\\fundamentals 8h\\lession18webandslibrary\\scrapeclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493A78B3-D686-4792-9560-7ADD3B509398}|ScrapeClient\\ScrapeClient.csproj|solutionrelative:scrapeclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493A78B3-D686-4792-9560-7ADD3B509398}|ScrapeClient\\ScrapeClient.csproj|k:\\bob tabor\\kodovi\\fundamentals 8h\\lession18webandslibrary\\scrapeclient\\scrapeclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{493A78B3-D686-4792-9560-7ADD3B509398}|ScrapeClient\\ScrapeClient.csproj|solutionrelative:scrapeclient\\scrapeclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92654081-8D38-417F-A7D0-9705B6CE58B2}|ScrapeLibrary\\ScrapeLibrary.csproj|k:\\bob tabor\\kodovi\\fundamentals 8h\\lession18webandslibrary\\scrapelibrary\\scrape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92654081-8D38-417F-A7D0-9705B6CE58B2}|ScrapeLibrary\\ScrapeLibrary.csproj|solutionrelative:scrapelibrary\\scrape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScrapeClient",
+              "DocumentMoniker": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\Lession18WebandsLibrary\\ScrapeClient\\ScrapeClient.csproj",
+              "RelativeDocumentMoniker": "ScrapeClient\\ScrapeClient.csproj",
+              "ToolTip": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\Lession18WebandsLibrary\\ScrapeClient\\ScrapeClient.csproj",
+              "RelativeToolTip": "ScrapeClient\\ScrapeClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T22:48:01.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\Lession18WebandsLibrary\\ScrapeClient\\Program.cs",
+              "RelativeDocumentMoniker": "ScrapeClient\\Program.cs",
+              "ToolTip": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\Lession18WebandsLibrary\\ScrapeClient\\Program.cs",
+              "RelativeToolTip": "ScrapeClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:44:40.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scrape.cs",
+              "DocumentMoniker": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\Lession18WebandsLibrary\\ScrapeLibrary\\Scrape.cs",
+              "RelativeDocumentMoniker": "ScrapeLibrary\\Scrape.cs",
+              "ToolTip": "K:\\Bob Tabor\\kodovi\\fundamentals 8h\\Lession18WebandsLibrary\\ScrapeLibrary\\Scrape.cs",
+              "RelativeToolTip": "ScrapeLibrary\\Scrape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:44:20.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

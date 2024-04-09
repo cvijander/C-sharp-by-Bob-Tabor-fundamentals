@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net7.0\EnumsAndSwitch.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net7.0\EnumsAndSwitch.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net7.0\EnumsAndSwitch.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net7.0\EnumsAndSwitch.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net7.0\EnumsAndSwitch.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\refint\EnumsAndSwitch.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\EnumsAndSwitch.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net7.0\ref\EnumsAndSwitch.dll

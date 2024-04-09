@@ -1,0 +1,12 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\bin\Debug\net8.0\ScrapeLibrary.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\bin\Debug\net8.0\ScrapeLibrary.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\bin\Debug\net8.0\ScrapeLibrary.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ScrapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ScrapeLibrary.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ScrapeLibrary.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ScrapeLibrary.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ScrapeLibrary.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ScrapeLibrary.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\refint\ScrapeLibrary.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ScrapeLibrary.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\Lession18WebandsLibrary\ScrapeLibrary\obj\Debug\net8.0\ref\ScrapeLibrary.dll

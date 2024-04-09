@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\net8.0\UnderstandingLINQ.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\net8.0\UnderstandingLINQ.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\net8.0\UnderstandingLINQ.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\net8.0\UnderstandingLINQ.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\net8.0\UnderstandingLINQ.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\refint\UnderstandingLINQ.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\UnderstandingLINQ.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\net8.0\ref\UnderstandingLINQ.dll

@@ -1,0 +1,15 @@
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.exe
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.deps.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.runtimeconfig.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.AssemblyInfoInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.AssemblyInfo.cs
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.sourcelink.json
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\refint\WorkingWithCollections.dll
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.pdb
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.genruntimeconfig.cache
+K:\Bob Tabor\kodovi\fundamentals 8h\WorkingWithCollections\WorkingWithCollections\obj\Debug\net8.0\ref\WorkingWithCollections.dll
